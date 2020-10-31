@@ -3,12 +3,12 @@
     "id": "thycotic-dsv-task",
     "name": "Thycotic DevOps Secrets Vault Azure DevOps Task",
     "version": "0.0.1",
-    "publisher": "thycotic",
+    "publisher": "thycotic-software",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
         }
-    ],    
+    ],
     "description": "Azure DevOps task for accessing secrets from Thycotic DevOps Secrets Vault",
     "categories": [
         "Azure Pipelines"
@@ -21,6 +21,26 @@
             "path": "DSVV1"
         }
     ],
+    "links": {
+        "home": {
+            "uri": "https://thycotic.com"
+        },
+        "getstarted": {
+            "uri": "https://www.pulumi.com/docs/get-started/"
+        },
+        "learn": {
+            "uri": "https://thycotic.com"
+        },
+        "support": {
+            "uri": "https://thycotic.com/support/"
+        },
+        "repository": {
+            "uri": "https://github.com/thycotic/DSV-ADO-BuildTask"
+        },
+        "issues": {
+            "uri": "https://github.com/thycotic/DSV-ADO-BuildTask/issues"
+        }
+    },
     "contributions": [
         {
             "id": "thycotic-dsv-build-release-task",
@@ -32,5 +52,12 @@
                 "name": "DSVV1"
             }
         }
+    ],
+    "repository": {
+        "type": "git",
+        "uri": "https://github.com/thycotic/DSV-ADO-BuildTask"
+    },
+    "galleryFlags": [
+        "Preview"
     ]
 }
