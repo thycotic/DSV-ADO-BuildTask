@@ -21,4 +21,4 @@ Using * for the data filter will retrieve all data values in the secret. A speci
 
 Environment variable names are constructed using the configured variable prefix and the data key. For example, with a variable prefix of "DSV_", the secret data with key "xyz" will result in an environment variable with name "DSV_xyz".
 
-![Thycotic DevOps Secrets Vault Task Configuration](images/task-config.png)
+![Thycotic DevOps Secrets Vault Task Configuration](https://github.com/thycotic/DSV-ADO-BuildTask/raw/main/images/task-config.png)
