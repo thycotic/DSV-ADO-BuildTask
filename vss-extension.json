@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "thycotic-dsv-task",
     "name": "Thycotic DevOps Secrets Vault Azure DevOps Task",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "thycotic-software",
     "targets": [
         {
