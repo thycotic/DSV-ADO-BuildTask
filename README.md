@@ -1,4 +1,12 @@
 # The Thycotic DevOps Secrets Vault Azure DevOps Task
+
+# PUBLIC ARCHIVE
+
+> ***NOTE***
+> This repo is archived.
+> This repository has been moved to the DelineaXPM GitHub. Please see [DelineaXPM](https://github.com/DelineaXPM/dsv-azure-pipelines-task) for the updated project.
+
+
 This repository contains the code for an Azure DevOps pipeline task which is used to read secrets from Thycotic DevOps Secrets Vault.
 
 ## Prerequisites
